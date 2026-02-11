@@ -7,10 +7,10 @@
 ---
 
 🎯 **Sobre mim**  
-- 👨‍💼 Estagiário em **Operações - Backoffice de Consignado** no [C6 Bank](https://www.c6bank.com.br/) desde **março de 2024**.
+- 👨‍💼 Estagiário em **Desenvolvimento Android - CRM Marketing** no [C6 Bank](https://www.c6bank.com.br/) desde **outubro de 2025**.
 - 🎓 Estudante de **Engenharia de Software** na [FIAP](https://www.fiap.com.br/) — **2024 a 2027**.
-- 🧠 Em constante desenvolvimento como **Back-End Developer**, com foco em **Java**, **Spring Boot** e **boas práticas**.
-- ⚙️ Interessado em arquitetura de sistemas, APIs REST, bancos de dados e tudo que envolve tecnologia limpa, escalável e bem construída.
+- 🧠 Em constante desenvolvimento como **Mobile Developer**, com foco em **Android**, **Kotlin**, **JetPack compose** e **boas práticas**
+- 📱 Interessado em desenvolvimento Android nativo com Kotlin, arquitetura moderna (MVVM, Clean Architecture), persistência de dados (Room), e tudo que envolve aplicações performáticas, escaláveis e bem estruturadas.
 
 ---
 ---
@@ -19,13 +19,15 @@
 
 > Sempre evoluindo e buscando aplicar boas práticas em cada projeto. Atualmente, estou aprofundando meus conhecimentos em:
 
-- 🔹 **Linguagem principal:** Java
+- 🔹 **Linguagem principal:** Kotlin
 - 🚀 **Focado em aprender:**  
-  Spring Boot • APIs RESTful • JPA/Hibernate • Arquitetura • Microsserviços • SQL • Git e GitHub
+  Desenvolvimento Android Nativo • Jetpack Compose • MVVM • Clean Architecture • Consumo de APIs REST (Retrofit) • Persistência de Dados (Room) • Coroutines e Flow • Injeção de Dependência (Hilt) • SQL • Git e GitHub
 - 🛠️ **Também conheço:**  
-  Python • JavaScript • Node.js • Flask • HTML • CSS
+  Java • Spring Boot • JPA/Hibernate • Microsserviços • React Native • Flutter
 - 🧰 **Ferramentas que uso no dia a dia:**  
-  IntelliJ IDEA • VSCode • Postman • GitHub
+  Android Studio • Postman • GitHub
+
+  
 
 ---
 
