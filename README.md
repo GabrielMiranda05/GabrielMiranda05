@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí! Eu sou o Gabriel Miranda 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Back-End+Developer+em+Evolução;Focado+em+Java+%26+Boas+Práticas;Estagiando+no+C6+Bank;Estudante+de+Engenharia+de+Software+na+FIAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer+em+Evolução;Estagiando+no+C6+Bank;Estudante+de+Engenharia+de+Software+na+FIAP" alt="Typing SVG" />
 </p>
 
 ---
