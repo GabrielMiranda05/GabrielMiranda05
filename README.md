@@ -7,7 +7,7 @@
 ---
 
 🎯 **Sobre mim**  
-- 👨‍💼 Estagiário em **Desenvolvimento Android - CRM Marketing** no [C6 Bank](https://www.c6bank.com.br/) desde **outubro de 2025**.
+- 👨‍💼 Estagiário em **Desenvolvimento Android - CRM Marketing** no [C6 Bank](https://www.c6bank.com.br/) desde **março de 2025**.
 - 🎓 Estudante de **Engenharia de Software** na [FIAP](https://www.fiap.com.br/) — **2024 a 2027**.
 - 🧠 Em constante desenvolvimento como **Mobile Developer**, com foco em **Android**, **Kotlin**, **JetPack compose** e **boas práticas**
 - 📱 Interessado em desenvolvimento Android nativo com Kotlin, arquitetura moderna (MVVM, Clean Architecture), persistência de dados (Room), e tudo que envolve aplicações performáticas, escaláveis e bem estruturadas.
